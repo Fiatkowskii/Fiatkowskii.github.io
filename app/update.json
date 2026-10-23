@@ -1,7 +1,7 @@
 {
   "versionCode": 5,
   "versionName": "3.1",
-  "apk": "https://fiatkowskii.github.io/app/PlayLivre.apk",
+  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.1.apk",
   "sha256": "7151c1265bab9ca29b35bff67e9162ab4ca8b1a35d975eefdddfdfc0153de7c4",
   "notes": "Novidades da 3.1:\n• Corrigido: o app fechava ao abrir um Mix\n• Corrigido: a aba Principal podia abrir em branco\n• Sugestões enquanto digita na busca + buscas recentes\n• Descrição, visualizações e capítulos no player\n• Comentários\n• Baixar playlist inteira\n• Relatório de erro"
 }
