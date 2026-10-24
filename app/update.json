@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "3.1",
-  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.1.apk",
-  "sha256": "7151c1265bab9ca29b35bff67e9162ab4ca8b1a35d975eefdddfdfc0153de7c4",
-  "notes": "Novidades da 3.1:\n• Corrigido: o app fechava ao abrir um Mix\n• Corrigido: a aba Principal podia abrir em branco\n• Sugestões enquanto digita na busca + buscas recentes\n• Descrição, visualizações e capítulos no player\n• Comentários\n• Baixar playlist inteira\n• Relatório de erro"
+  "versionCode": 6,
+  "versionName": "3.2",
+  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.2.apk",
+  "sha256": "77df6172e69b7a17124b54cfdf395955995189d62f12d7a1ff8c63e3c8c5827d",
+  "notes": "Novidades da 3.2:\n• Android Auto: navegue, busque e toque pelo carro (também por voz)\n• \"Não tenho interesse\" e \"Não recomendar este canal\" nas sugestões\n• Tocar de novo na aba atual sobe para o topo (no topo, atualiza)\n• Economia: o vídeo só é baixado com a tela do player aberta"
 }
