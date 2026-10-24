@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "3.2",
-  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.2.apk",
-  "sha256": "77df6172e69b7a17124b54cfdf395955995189d62f12d7a1ff8c63e3c8c5827d",
-  "notes": "Novidades da 3.2:\n• Android Auto: navegue, busque e toque pelo carro (também por voz)\n• \"Não tenho interesse\" e \"Não recomendar este canal\" nas sugestões\n• Tocar de novo na aba atual sobe para o topo (no topo, atualiza)\n• Economia: o vídeo só é baixado com a tela do player aberta"
+  "versionCode": 7,
+  "versionName": "3.3",
+  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.3.apk",
+  "sha256": "34bbd86979b4ff0ebd699ab260a8d01cf8076896571a47420d143278c33a50c9",
+  "notes": "Novidades da 3.3:\n• Segure o dedo no vídeo para acelerar (2x)\n• Legendas (botão CC no vídeo; idioma automático em Ajustes)\n• Filtros na busca: vídeos, canais, playlists, ao vivo, curtos e longos\n• Atualização verificada na primeira abertura do dia, já baixada no Wi-Fi"
 }
