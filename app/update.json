@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "3.4.0",
-  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.4.0.apk",
-  "sha256": "1d7c4f9d4a44a499cbed008df535cfeda07438bdc9f9e79fee423b29e83bfb10",
-  "notes": "Comentários de lives: novos caminhos para buscar (incluindo a sua conta) e Sessão do YouTube opcional em Ajustes.\nDiagnóstico dos comentários e botão Ver no YouTube.\nOrdenar comentários: Principais / Mais recentes.\nCorreção de estabilidade em algumas lives."
+  "versionCode": 12,
+  "versionName": "3.4.1",
+  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.4.1.apk",
+  "sha256": "a8ff8d534c462d3c95b7367175fe5ae97134b6b565e9a803c1f156b5c613c769",
+  "notes": "Comentários: a sessão do YouTube agora também tenta como site móvel e como app Android.\nDiagnóstico mais detalhado (mostra o que o YouTube respondeu)."
 }
