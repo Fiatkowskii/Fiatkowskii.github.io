@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "3.3.1",
-  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.3.1.apk",
-  "sha256": "171a16683c6e86c55d2b8793189a355b9b718a22aa536bf22267a4bb7bb90fbd",
-  "notes": "Novidades da 3.3.1:\n• Chat ao vivo: nas transmissões ao vivo, o botão Comentários vira Chat ao vivo e mostra as mensagens em tempo real"
+  "versionCode": 9,
+  "versionName": "3.3.2",
+  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.3.2.apk",
+  "sha256": "e8e1fa0d43dece01a8d98eae377fde9c6265156b1c5f571230fef5758aa9f32e",
+  "notes": "Novidades da 3.3.2:\n• Comentários de lives: aparecem para quem conectou a conta Google (Ajustes → Conectar conta)\n• Nas lives, um botão alterna entre Chat ao vivo e Comentários; se o chat estiver desligado, abre os comentários direto"
 }
