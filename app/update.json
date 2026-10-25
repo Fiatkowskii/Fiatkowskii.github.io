@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "3.3.3",
-  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.3.3.apk",
-  "sha256": "dee91ec0fb0f0a5fcbdd949f7172a2fabe96b2b7700ee894be05b5dc17504e94",
-  "notes": "Correções da 3.3.3:\n• Comentários de lives pela sua conta não ficam mais carregando para sempre\n• Lives assistidas aparecem em Continuar assistindo (por algumas horas)"
+  "versionCode": 11,
+  "versionName": "3.4.0",
+  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.4.0.apk",
+  "sha256": "1d7c4f9d4a44a499cbed008df535cfeda07438bdc9f9e79fee423b29e83bfb10",
+  "notes": "Comentários de lives: novos caminhos para buscar (incluindo a sua conta) e Sessão do YouTube opcional em Ajustes.\nDiagnóstico dos comentários e botão Ver no YouTube.\nOrdenar comentários: Principais / Mais recentes.\nCorreção de estabilidade em algumas lives."
 }
