@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "3.3",
-  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.3.apk",
-  "sha256": "34bbd86979b4ff0ebd699ab260a8d01cf8076896571a47420d143278c33a50c9",
-  "notes": "Novidades da 3.3:\n• Segure o dedo no vídeo para acelerar (2x)\n• Legendas (botão CC no vídeo; idioma automático em Ajustes)\n• Filtros na busca: vídeos, canais, playlists, ao vivo, curtos e longos\n• Atualização verificada na primeira abertura do dia, já baixada no Wi-Fi"
+  "versionCode": 8,
+  "versionName": "3.3.1",
+  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.3.1.apk",
+  "sha256": "171a16683c6e86c55d2b8793189a355b9b718a22aa536bf22267a4bb7bb90fbd",
+  "notes": "Novidades da 3.3.1:\n• Chat ao vivo: nas transmissões ao vivo, o botão Comentários vira Chat ao vivo e mostra as mensagens em tempo real"
 }
