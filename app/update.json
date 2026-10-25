@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "3.4.1",
-  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.4.1.apk",
-  "sha256": "a8ff8d534c462d3c95b7367175fe5ae97134b6b565e9a803c1f156b5c613c769",
-  "notes": "Comentários: a sessão do YouTube agora também tenta como site móvel e como app Android.\nDiagnóstico mais detalhado (mostra o que o YouTube respondeu)."
+  "versionCode": 13,
+  "versionName": "3.5.0",
+  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.5.0.apk",
+  "sha256": "d585bd80d04596ee15b64cfa352f9e90d8549bb4fd0d6907447393e9767a1787",
+  "notes": "Áudio melhor: o app agora usa a faixa de maior qualidade (Opus, ~160 kbps).\nNovo botão Áudio no player: Volume+ (+3, +6, +10 dB) e equalizador (Normal, Mais graves, Voz, Mais agudos)."
 }
