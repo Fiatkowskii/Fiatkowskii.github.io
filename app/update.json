@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "3.7.0",
-  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.7.0.apk",
-  "sha256": "9bad78ebf46e10d275ee815b4bc05dbc7d02448eb4eef00e2c33ae278775c2e8",
-  "notes": "Capítulos viram marcas na barra do vídeo (o nome aparece ao arrastar).\nEstimativa de Não gostei abaixo do título.\nBusca no Histórico, Downloads, Curtidos e playlists.\nDownloads: escolha a pasta (inclusive cartão de memória), fila com Cancelar, novas tentativas automáticas, Tentar de novo, aviso de falta de espaço, Apagar do celular."
+  "versionCode": 16,
+  "versionName": "3.7.1",
+  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.7.1.apk",
+  "sha256": "f3295be1115bedd29cc2a65dcd93233f45aca7b4f6051226992ef76781b13e5c",
+  "notes": "Rotação automática: deite o celular para entrar em tela cheia e volte para sair. O botão de tela cheia não trava mais a tela em pé; vídeos verticais abrem em tela cheia sem girar."
 }
