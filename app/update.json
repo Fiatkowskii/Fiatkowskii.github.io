@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "3.8.0",
-  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.8.0.apk",
-  "sha256": "d05d416eba4b517f2cb26c71aa7bd7b0d617e75e52f87c0c0087ed7d16a2e42f",
-  "notes": "Nova aba Música: busque artistas, músicas e álbuns do YouTube Music — sem anúncios.\nTraga suas playlists do Spotify (por link ou pela conta).\nPágina do canal com abas: Vídeos, Ao vivo, Playlists e Sobre.\nEnviar feedback em Ajustes."
+  "versionCode": 19,
+  "versionName": "3.8.1",
+  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.8.1.apk",
+  "sha256": "b6682777956355ba3f08e7d1bbe93df9ea84a7e3a87f71b9e9ce282f02732bb9",
+  "notes": "Spotify: a conexão pela conta agora avisa que o Spotify exige Premium; sem Premium, use Importar por link."
 }
