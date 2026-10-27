@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "3.8.1",
-  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.8.1.apk",
-  "sha256": "b6682777956355ba3f08e7d1bbe93df9ea84a7e3a87f71b9e9ce282f02732bb9",
-  "notes": "Spotify: a conexão pela conta agora avisa que o Spotify exige Premium; sem Premium, use Importar por link."
+  "versionCode": 20,
+  "versionName": "3.8.2",
+  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.8.2.apk",
+  "sha256": "0d63e28f3ce2c66fdca9b8c74f3c6528ea5603c0cc698b2848d712c45a20ff23",
+  "notes": "A importação do Spotify foi removida. A aba Música continua, com busca no YouTube Music."
 }
