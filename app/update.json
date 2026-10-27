@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "3.7.1",
-  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.7.1.apk",
-  "sha256": "f3295be1115bedd29cc2a65dcd93233f45aca7b4f6051226992ef76781b13e5c",
-  "notes": "Rotação automática: deite o celular para entrar em tela cheia e volte para sair. O botão de tela cheia não trava mais a tela em pé; vídeos verticais abrem em tela cheia sem girar."
+  "versionCode": 17,
+  "versionName": "3.7.2",
+  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.7.2.apk",
+  "sha256": "2f3ae325f0e28c8e4cfa67bac87cb5f45866748ca2439d9776b825ebf1713fac",
+  "notes": "Correção: a tela ficava girando sozinha entre em pé e deitado. Agora a rotação automática funciona normalmente."
 }
