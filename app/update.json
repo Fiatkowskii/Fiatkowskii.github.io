@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "3.8.2",
-  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.8.2.apk",
-  "sha256": "0d63e28f3ce2c66fdca9b8c74f3c6528ea5603c0cc698b2848d712c45a20ff23",
-  "notes": "A importação do Spotify foi removida. A aba Música continua, com busca no YouTube Music."
+  "versionCode": 21,
+  "versionName": "3.9.0",
+  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.9.0.apk",
+  "sha256": "67fb53c3e6ec4a1ab2258086340fefdfe76e6b0af50864e8cdd17b70c9325d9c",
+  "notes": "Beta opcional: Reconhecer música. Ligue em Ajustes; na aba Música, o app ouve e mostra a música com Tocar, Salvar, Curtir, Baixar e Ver artista."
 }
