@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "3.9.0",
-  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.9.0.apk",
-  "sha256": "67fb53c3e6ec4a1ab2258086340fefdfe76e6b0af50864e8cdd17b70c9325d9c",
-  "notes": "Beta opcional: Reconhecer música. Ligue em Ajustes; na aba Música, o app ouve e mostra a música com Tocar, Salvar, Curtir, Baixar e Ver artista."
+  "versionCode": 22,
+  "versionName": "3.9.1",
+  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.9.1.apk",
+  "sha256": "2665d681b37a88b0c557775e99646e2a6dfb38c77e86ca6c021ce72c3bd95863",
+  "notes": "Mini player: não disputa mais a rotação com jogos e outros apps; ganhou os botões Tocar/Pausar e Fechar janela.\nNovo ajuste: Mini player ao sair do vídeo (desligue para ficar só com o áudio)."
 }
