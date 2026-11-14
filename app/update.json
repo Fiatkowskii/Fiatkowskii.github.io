@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "3.9.1",
-  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.9.1.apk",
-  "sha256": "2665d681b37a88b0c557775e99646e2a6dfb38c77e86ca6c021ce72c3bd95863",
-  "notes": "Mini player: não disputa mais a rotação com jogos e outros apps; ganhou os botões Tocar/Pausar e Fechar janela.\nNovo ajuste: Mini player ao sair do vídeo (desligue para ficar só com o áudio)."
+  "versionCode": 23,
+  "versionName": "3.9.2",
+  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.9.2.apk",
+  "sha256": "7dd442c6a547ba9483e11dcc108b8d3046d3240b4d3c701ed93e54e5f74a2575",
+  "notes": "Atualização da biblioteca que conversa com o YouTube (0.27.1): mantém o app funcionando com as mudanças recentes do YouTube."
 }
