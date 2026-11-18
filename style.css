@@ -45,3 +45,8 @@ details[open] summary{margin-bottom:6px}
 .kbd{display:inline-block;background:var(--card);border-radius:6px;padding:0 6px;font-weight:600;white-space:nowrap}
 .toc{columns:2;column-gap:24px;padding-left:18px}
 @media (max-width:480px){.toc{columns:1}.btn{font-size:17px;padding:14px 18px}}
+
+/* QR code de instalação (fundo branco para ler bem também no tema escuro) */
+.qr{display:flex;align-items:center;gap:18px}
+.qr img{background:#fff;border-radius:10px;padding:6px;flex:none}
+@media (max-width:520px){.qr{flex-direction:column;text-align:center}}
