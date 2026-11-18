@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "3.10.0",
-  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.10.0.apk",
-  "sha256": "d02b4e293f319d0c7cf47b03c3a80e22a7c5eaa0fbcb70189f95af159b21961f",
-  "notes": "Downloads dentro do app: atalho no topo, filtros, tamanho e espaço usado, andamento com Cancelar, apagar todos.\nMais assistidos: curva acima da barra do vídeo mostra os trechos mais revistos.\nReconhecer música saiu do beta e já vem ligado."
+  "versionCode": 25,
+  "versionName": "3.10.1",
+  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.10.1.apk",
+  "sha256": "0a63effb8b8e86656c83c1739af2b4d642d41865d2f5383f4e53737c417b539f",
+  "notes": "As listas de vídeos agora mostram quando o vídeo foi postado e quantas visualizações tem (ex.: 110 mil visualizações · há 6 horas)."
 }
