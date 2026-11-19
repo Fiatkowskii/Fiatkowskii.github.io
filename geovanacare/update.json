@@ -2,6 +2,6 @@
   "versionCode": 4,
   "versionName": "1.2.0",
   "apk": "https://fiatkowskii.github.io/geovanacare/GeovanaCare-1.2.0.apk",
-  "sha256": "c1f5405c65e29730e3b3c1668e9092264106e4abc0212e906309d61c15eb4437",
+  "sha256": "96eac7fef5695a418e05674091fef2215394bf81e2105c88ced53a62502f030a",
   "notes": "Novo: Remédios antes do Histórico, histórico com remédios, envio de SMS e WhatsApp com local e ficha, e localização em tempo real no WhatsApp."
 }
