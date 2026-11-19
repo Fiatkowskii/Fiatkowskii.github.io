@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apk": "https://fiatkowskii.github.io/geovanacare/GeovanaCare-1.0.0.apk",
-  "sha256": "4ec65f59a1523a2bc7d061ffbda4aacf77655bd19509b0f0c49f0868b024b072",
-  "notes": "Melhorias e correções."
+  "versionCode": 3,
+  "versionName": "1.1.2",
+  "apk": "https://fiatkowskii.github.io/geovanacare/GeovanaCare-1.1.2.apk",
+  "sha256": "e6ed756c7cfb9b3aaaf1cb1e98133c0d32eb2d9b20fccbddd20aa00a9ec25ee4",
+  "notes": "Novo: aba Remédios (fotos, dose, alarme), emergência em mensagens separadas e página de download com QR code."
 }
