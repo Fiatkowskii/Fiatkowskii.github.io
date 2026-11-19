@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.5.0",
-  "apk": "https://fiatkowskii.github.io/geovanacare/GeovanaCare-1.5.0.apk",
-  "sha256": "542f423e35cf4338f100ddfbe0de90140cf4c0feee4230bab530958e6ddf1fa7",
-  "notes": "Novo: ícone do app conforme o tema, aba Emergência repaginada com mapa e \"quem está com o bebê\": a localização enviada é sempre a do celular de quem está com ela."
+  "versionCode": 8,
+  "versionName": "1.5.1",
+  "apk": "https://fiatkowskii.github.io/geovanacare/GeovanaCare-1.5.1.apk",
+  "sha256": "82fcfb9f40007d63c654ae6dc54e78bce81516848fc0195bfbbe206d4eb3d880",
+  "notes": "Foto do bebê: agora dá para afastar até ver a foto inteira, sem cortes, e a foto é guardada com mais qualidade."
 }
