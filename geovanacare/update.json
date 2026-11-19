@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.4.0",
-  "apk": "https://fiatkowskii.github.io/geovanacare/GeovanaCare-1.4.0.apk",
-  "sha256": "37f5d66b90d43a54e008e932b69ef437346141d277d5894c7d9dc62800769070",
-  "notes": "Novo: apelido do bebê, alarmes no tema com foto grande, mapa ao vivo na emergência, convite com QR code, fraldas, histórico por dia e ajuste da foto."
+  "versionCode": 7,
+  "versionName": "1.5.0",
+  "apk": "https://fiatkowskii.github.io/geovanacare/GeovanaCare-1.5.0.apk",
+  "sha256": "542f423e35cf4338f100ddfbe0de90140cf4c0feee4230bab530958e6ddf1fa7",
+  "notes": "Novo: ícone do app conforme o tema, aba Emergência repaginada com mapa e \"quem está com o bebê\": a localização enviada é sempre a do celular de quem está com ela."
 }
