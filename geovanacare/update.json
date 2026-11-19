@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.1.2",
-  "apk": "https://fiatkowskii.github.io/geovanacare/GeovanaCare-1.1.2.apk",
-  "sha256": "e6ed756c7cfb9b3aaaf1cb1e98133c0d32eb2d9b20fccbddd20aa00a9ec25ee4",
-  "notes": "Novo: aba Remédios (fotos, dose, alarme), emergência em mensagens separadas e página de download com QR code."
+  "versionCode": 4,
+  "versionName": "1.2.0",
+  "apk": "https://fiatkowskii.github.io/geovanacare/GeovanaCare-1.2.0.apk",
+  "sha256": "c1f5405c65e29730e3b3c1668e9092264106e4abc0212e906309d61c15eb4437",
+  "notes": "Novo: Remédios antes do Histórico, histórico com remédios, envio de SMS e WhatsApp com local e ficha, e localização em tempo real no WhatsApp."
 }
