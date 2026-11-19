@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.3.0",
-  "apk": "https://fiatkowskii.github.io/geovanacare/GeovanaCare-1.3.0.apk",
-  "sha256": "87360b9533e5e9d3ca6aad105e962a6a2251412f7d36852e57fcac792df4bcd6",
-  "notes": "Novo visual: 4 temas (Amor e Natureza, Cuidado Moderno, Geovana Brilho e Noite), Início em painel com emergência sempre à mão, foto da bebê e \"está dormindo?\"."
+  "versionCode": 6,
+  "versionName": "1.4.0",
+  "apk": "https://fiatkowskii.github.io/geovanacare/GeovanaCare-1.4.0.apk",
+  "sha256": "37f5d66b90d43a54e008e932b69ef437346141d277d5894c7d9dc62800769070",
+  "notes": "Novo: apelido do bebê, alarmes no tema com foto grande, mapa ao vivo na emergência, convite com QR code, fraldas, histórico por dia e ajuste da foto."
 }
