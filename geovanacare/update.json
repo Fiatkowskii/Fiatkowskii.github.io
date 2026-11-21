@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.5.1",
-  "apk": "https://fiatkowskii.github.io/geovanacare/GeovanaCare-1.5.1.apk",
-  "sha256": "82fcfb9f40007d63c654ae6dc54e78bce81516848fc0195bfbbe206d4eb3d880",
-  "notes": "Foto do bebê: agora dá para afastar até ver a foto inteira, sem cortes, e a foto é guardada com mais qualidade."
+  "versionCode": 9,
+  "versionName": "1.6.0",
+  "apk": "https://fiatkowskii.github.io/geovanacare/GeovanaCare-1.6.0.apk",
+  "sha256": "89b5b76126cdb18188a86ed9c429890dea17d0e73c1790b069dbc5613e314d03",
+  "notes": "Novo: temperatura atual no Início e sugestão de roupa para o bebê conforme o clima."
 }
