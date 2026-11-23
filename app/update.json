@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "3.11.0",
-  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.11.0.apk",
-  "sha256": "dc86af748b751dc8597be1409ccb8943b4a5e536e2b283e302d118b7c5ff68ca",
-  "notes": "Principal com muito mais opções: \"Recomendados para você\" com até 40 vídeos (também sem conta) e mais Mixes. \"Em alta na música\" voltou. Correções de estabilidade (busca ao girar a tela, downloads, sessão do YouTube) e mais privacidade."
+  "versionCode": 27,
+  "versionName": "3.12.0",
+  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.12.0.apk",
+  "sha256": "4f577d86c36f812692c6357a0a232a1e8d631dd7084278744c561510bcbb7836",
+  "notes": "Modo karaokê: toque em Letra no player para ver a letra sincronizada sobre o vídeo (Vídeo + letra) ou em tela cheia (Só a letra), com ajuste de sincronia. Mini player com transição mais suave. Bibliotecas atualizadas (player mais recente) e playlists antigas de música agora na Biblioteca."
 }
