@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.6.0",
-  "apk": "https://fiatkowskii.github.io/geovanacare/GeovanaCare-1.6.0.apk",
-  "sha256": "89b5b76126cdb18188a86ed9c429890dea17d0e73c1790b069dbc5613e314d03",
-  "notes": "Novo: temperatura atual no Início e sugestão de roupa para o bebê conforme o clima."
+  "versionCode": 10,
+  "versionName": "1.7.0",
+  "apk": "https://fiatkowskii.github.io/geovanacare/GeovanaCare-1.7.0.apk",
+  "sha256": "49059ce665f51f48e3b1e1c56d96dfb2f82855fddd883d9c66c27c02cb435422",
+  "notes": "Novo: registrar mamada, fralda e remédio com horário passado (atalhos ou horário escolhido) e Estoque de fraldas, lenços, itens e remédios, com foto, quantidade e aviso de \"acabando\"."
 }
