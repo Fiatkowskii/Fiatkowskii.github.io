@@ -1,7 +1,7 @@
 <!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Política de Privacidade — PlayLivre</title><link rel="icon" href="logo.png"><link rel="stylesheet" href="style.css"></head><body><main>
 <header><img src="logo.png" alt="Logo do PlayLivre"><a href="index.html">PlayLivre</a></header>
 <h1>Política de Privacidade</h1>
-<p class="muted">Última atualização: 7 de novembro de 2026</p>
+<p class="muted">Última atualização: 23 de novembro de 2026</p>
 <p>Esta política explica como o aplicativo PlayLivre ("app") trata informações, especialmente os dados da sua Conta Google quando você escolhe conectá-la.</p>
 
 <h2>1. Resumo</h2>
@@ -28,13 +28,21 @@
 </ul>
 <p>Esse acesso não é oficial: o Google pode pedir um novo login, avisar sobre atividade incomum ou, raramente, restringir a conta. Recomendamos usar uma conta secundária. Para encerrar a sessão também nos servidores do Google, use o gerenciamento de dispositivos da sua Conta Google.</p>
 
-<h2>4.1 Reconhecer músicas (opcional, beta)</h2>
-<p>Desligado por padrão. Se você ligar em Ajustes e tocar em <b>Reconhecer música</b>, o app usa o <strong>microfone</strong> por no máximo 13 segundos, só enquanto aparece "Ouvindo…". O áudio <strong>não é gravado nem enviado</strong>: o próprio celular calcula uma "impressão digital" (uma lista de picos de frequência, da qual não dá para reconstruir o som) e só ela é enviada ao serviço de reconhecimento do Shazam (Apple), de forma não oficial. O nome da música encontrada fica no histórico do app, no seu celular.</p>
+<h2>4.1 Reconhecer músicas (opcional)</h2>
+<p>Disponível na aba Música (pode ser desligado em Ajustes). Só funciona quando você toca em <b>Reconhecer música</b>: o app usa o <strong>microfone</strong> por no máximo 13 segundos, só enquanto aparece "Ouvindo…". O áudio <strong>não é gravado nem enviado</strong>: o próprio celular calcula uma "impressão digital" (uma lista de picos de frequência, da qual não dá para reconstruir o som) e só ela é enviada ao serviço de reconhecimento do Shazam (Apple), de forma não oficial. O nome da música encontrada fica no histórico do app, no seu celular.</p>
 
 <h2>5. Armazenamento e compartilhamento</h2>
 <ul>
 <li>Os dados importados e o token de acesso fornecido pelo Google ficam armazenados apenas no seu aparelho.</li>
-<li>Nenhum dado é enviado ao desenvolvedor ou a terceiros. As únicas comunicações são entre o seu aparelho e os serviços do Google/YouTube.</li>
+<li>Nenhum dado é enviado ao desenvolvedor. Além dos serviços do Google/YouTube, o app se comunica apenas com:
+<ul>
+<li><strong>SponsorBlock</strong> (sponsor.ajay.app), para pular trechos patrocinados: recebe só o começo de um código derivado do ID do vídeo (não o vídeo exato). Pode ser desligado em Ajustes.</li>
+<li><strong>Return YouTube Dislike</strong> (returnyoutubedislikeapi.com), para mostrar a contagem de "Não gostei": recebe o ID do vídeo aberto. Pode ser desligado em Ajustes → Mostrar "Não gostei".</li>
+<li><strong>Shazam</strong> (Apple), só quando você usa Reconhecer música, como descrito no item 4.1.</li>
+<li><strong>Este site</strong> (fiatkowskii.github.io), para verificar e baixar atualizações do app.</li>
+</ul>
+Esses serviços recebem também o endereço IP do aparelho, como em qualquer conexão à internet.</li>
+<li>Os cookies da Sessão do YouTube não entram no backup do Android nem na cópia para um celular novo.</li>
 <li>O uso de informações recebidas das APIs do Google segue a <a href="https://developers.google.com/terms/api-services-user-data-policy">Política de Dados do Usuário dos Serviços de API do Google</a>, incluindo os requisitos de Uso Limitado.</li>
 </ul>
 

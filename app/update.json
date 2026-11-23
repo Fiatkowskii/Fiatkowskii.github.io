@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "3.10.1",
-  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.10.1.apk",
-  "sha256": "0a63effb8b8e86656c83c1739af2b4d642d41865d2f5383f4e53737c417b539f",
-  "notes": "As listas de vídeos agora mostram quando o vídeo foi postado e quantas visualizações tem (ex.: 110 mil visualizações · há 6 horas)."
+  "versionCode": 26,
+  "versionName": "3.11.0",
+  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.11.0.apk",
+  "sha256": "dc86af748b751dc8597be1409ccb8943b4a5e536e2b283e302d118b7c5ff68ca",
+  "notes": "Principal com muito mais opções: \"Recomendados para você\" com até 40 vídeos (também sem conta) e mais Mixes. \"Em alta na música\" voltou. Correções de estabilidade (busca ao girar a tela, downloads, sessão do YouTube) e mais privacidade."
 }
