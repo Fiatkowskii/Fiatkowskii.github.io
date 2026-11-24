@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "3.12.0",
-  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.12.0.apk",
-  "sha256": "4f577d86c36f812692c6357a0a232a1e8d631dd7084278744c561510bcbb7836",
-  "notes": "Modo karaokê: toque em Letra no player para ver a letra sincronizada sobre o vídeo (Vídeo + letra) ou em tela cheia (Só a letra), com ajuste de sincronia. Mini player com transição mais suave. Bibliotecas atualizadas (player mais recente) e playlists antigas de música agora na Biblioteca."
+  "versionCode": 28,
+  "versionName": "3.13.0",
+  "apk": "https://fiatkowskii.github.io/app/PlayLivre-3.13.0.apk",
+  "sha256": "624f9876e7695ea80190d6dd45c145d07b10e3499a871cb6becb2bca5edb7901",
+  "notes": "Visual novo: Principal em creme e coral com títulos desenhados, player escuro com as ações principais à mostra (o resto em Mais), capítulos e descrição em cartões, e aba Música com botão grande de reconhecer música e paradas numeradas."
 }
